@@ -13,7 +13,7 @@ This Vue.js component visually represents the Zero-Trust Score and its metrics u
 ## Integration
 
 ### Step 1: Install Vuetify
-If you don't have Vuetify installed in your Vue project, install it using:
+Install Vuetify in your Vue project using:
 
 ```bash
 vue add vuetify
